@@ -1,6 +1,0 @@
-[submodule "endpoint-operator"]
-	path = endpoint-operator
-	url = git@github.com:amioranza/endpoint-operator.git
-[submodule "kubernetes-workshop"]
-	path = kubernetes-workshop
-	url = git@github.com:amioranza/kubernetes-workshop.git
