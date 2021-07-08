@@ -1,0 +1,6 @@
+[submodule "modules/aws-dynamic-subnets"]
+	path = modules/aws-dynamic-subnets
+	url = https://github.com/cloudposse/terraform-aws-dynamic-subnets.git
+[submodule "modules/aws-vpc"]
+	path = modules/aws-vpc
+	url = https://github.com/cloudposse/terraform-aws-vpc.git
